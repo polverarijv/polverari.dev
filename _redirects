@@ -1,4 +1,4 @@
 /pgp /gpg 301
 /gnupg /gpg 301
 /openpgp /gpg 301
-
+/gpg /gpg/pubKey.txt 200
